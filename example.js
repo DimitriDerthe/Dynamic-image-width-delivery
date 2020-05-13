@@ -40,4 +40,4 @@ function closestRes(array,img_width){
     return ans
 }
 
-closestRes(array, document.getElementById(id_image).clientWidth);
+closestRes(array, document.getElementById(<IMG_ID>).clientWidth);
