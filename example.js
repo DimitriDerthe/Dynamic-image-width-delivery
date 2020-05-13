@@ -1,4 +1,4 @@
-//Define our standard image assets, here 20 different resolutions
+//Define our standard image resolutions
 //Can be automated by bucket listing and memory cache for performance
 var array = ['50', '261', '385', '493', '578', '659', '736', '805', '872', '940', '1002', '1062', '1127', '1185', '1242', '1311', '1367', '1425', '1433', '1440']
 
